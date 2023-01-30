@@ -1,0 +1,3 @@
+Pressure 741
+Temperature 30
+Humidity 78
